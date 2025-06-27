@@ -4,7 +4,7 @@
   
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xpaul6&layout=compact&theme=github_dark&excplude_repo=courseproject_swagtodo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xpaul6&layout=compact&theme=github_dark&hide=html" />
 </div>
 
 <!--
