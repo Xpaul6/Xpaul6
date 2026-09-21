@@ -48,8 +48,8 @@
 
 ## Технические навыки
 
-- **Языки программирования**: Go (базовый), JS (базовый), Python (начальный), Bash (начальный)
-- **Инструменты**: Git, Docker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI/CD
+- **Языки программирования**: Go, JS, Python, Bash
+- **Инструменты**: Linux, Git, Docker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI/CD, Kafka
 - **Языки**: Русский (родной), Английский (B2)
 
 
